@@ -1,0 +1,31 @@
+p{
+  color: lightblue;
+  border: solid;
+  padding: 20px;
+  background-color: aqua;
+}
+h1{
+  color: purple;
+  background-color: #8B008B;
+}
+h2{
+  color: lightgreen;
+}
+h3{
+  color: pink;
+}
+ul{
+  color: red;
+}
+li a{
+  color: yellow;
+}
+li {
+  color: orange;
+}
+#test_id{
+  color: brown;
+}
+.lala{
+  color: #FF00FF;
+}
